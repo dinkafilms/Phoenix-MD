@@ -1,8 +1,8 @@
 {
-  "name": "Phoenix-MD",
+  "name": "DINKA NADEEN",
   "version": "1.0.0",
-  "description": "Phoenix-MD Simple WhatsApp Bot",
-  "logo": "https://i.imgur.com/T78fhJk.jpeg",
+  "description": "NADEEN POORNA Simple WhatsApp Bot",
+  "logo": "https://imgur.com/a/Ueisvyg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot"],
   "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD",
   "stack": "container",
@@ -29,22 +29,22 @@
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "🎯NADEEN;POORNA☘️"
     },
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "NADEEN POORNA"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "94728840491"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
       "required": false,
-      "value": "Phoenix-MD"
+      "value": "DINKA NADEEN"
     },
     "WORK_TYPE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
